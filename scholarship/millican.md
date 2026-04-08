@@ -13,7 +13,7 @@ Most of these files are in "PDF" form, to maintain platform independence. Any Po
 ### 2025
 
 - ["Weighing Up Hume's 'Of Miracles'"]({{ site.baseurl }}{% link scholarship/papers/millican/2025_Weighing_Hume_Miracles.pdf %}), in Paul Russell (ed.), *Hume's Dialogues concerning Natural Religion: A Critical Guide*, Cambridge University Press, pp. 221-40
-- ["Hume, Naturalism and Scepticism: Rejecting an Influential Narrative"]({{ site.baseurl }}{% link scholarship/papers/millican/2024_Hume_Naturalism_Scepticism.pdf %}), in John Hyman and Michael Thorne (eds), *Scepticism and Naturalism: Hume, Wittgenstein, Strawson*, Brill Studies in Scepticism, pp. 4-35
+- ["Hume, Naturalism and Scepticism: Rejecting an Influential Narrative"]({{ site.baseurl }}{% link scholarship/papers/millican/2025_Hume_Naturalism_Scepticism.pdf %}), in John Hyman and Michael Thorne (eds), *Scepticism and Naturalism: Hume, Wittgenstein, Strawson*, Brill Studies in Scepticism, pp. 4-35
 - ["Weighing Up Hume on Miracles" - slides]({{ site.baseurl }}{% link scholarship/papers/millican/2025_Miracles_Canterbury.pptx %})<br>University of Canterbury, New Zealand (March)
 - ["Weighing Up Hume on Miracles" - handout]({{ site.baseurl }}{% link scholarship/papers/millican/2025_Miracles_Canterbury.pdf %})<br>University of Canterbury, New Zealand (March)
 - ["Hume, Naturalism and Scepticism: Rejecting an Influential Narrative" - slides]({{ site.baseurl }}{% link scholarship/papers/millican/2025_Naturalism_Otago.pptx %})<br>University of Otago, New Zealand (February)
